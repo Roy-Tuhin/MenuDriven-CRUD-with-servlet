@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 
-public class Main_Method {
+public class Main_Method {  // working
 
     public static void main(String[] args) {                                                                            // M A I N      M E T H O D   ☘
 
